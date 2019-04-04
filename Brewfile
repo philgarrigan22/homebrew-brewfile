@@ -17,7 +17,7 @@ brew "node"
 brew "openssh"
 brew "pipenv"
 brew "pre-commit"
-brew "r", link: false
+brew "r"
 brew "ruby"
 brew "yarn"
 brew "zsh"
