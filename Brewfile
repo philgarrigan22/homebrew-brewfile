@@ -23,8 +23,10 @@ brew "ruby"
 brew "yarn"
 brew "zsh"
 brew "zsh-completions"
+brew "zsh-syntax-highlighting"
 cask "alfred"
 cask "backblaze"
+cask "brave-browser"
 cask "docker"
 cask "figma"
 cask "firefox-developer-edition"
@@ -34,6 +36,7 @@ cask "postico"
 cask "protonvpn"
 cask "rstudio"
 cask "visual-studio-code"
+cask "zotero"
 mas "1password", id: 1333542190
 mas "bear", id: 1091189122
 mas "todoist", id: 585829637
