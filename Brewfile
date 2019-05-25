@@ -12,6 +12,7 @@ brew "howdoi"
 brew "pandoc"
 brew "postgresql"
 brew "jupyter"
+brew "mas"
 brew "nmap"
 brew "node"
 brew "openssh"
@@ -33,3 +34,6 @@ cask "postico"
 cask "protonvpn"
 cask "rstudio"
 cask "visual-studio-code"
+mas "1password", id: 1333542190
+mas "bear", id: 1091189122
+mas "todoist", id: 585829637
