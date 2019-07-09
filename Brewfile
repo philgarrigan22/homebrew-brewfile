@@ -40,7 +40,7 @@ cask "postgres"
 cask "postico"
 cask "protonvpn"
 cask "rstudio"
-cask "visual-studio-code"
+cask "vscodium"
 cask "zotero"
 mas "1password", id: 1333542190
 mas "bear", id: 1091189122
