@@ -44,4 +44,7 @@ cask "vscodium"
 cask "zotero"
 mas "1password", id: 1333542190
 mas "bear", id: 1091189122
+mas "keynote", id: 409183694
+mas "numbers", id: 409203825
+mas "pages", id: 409201541
 mas "todoist", id: 585829637
