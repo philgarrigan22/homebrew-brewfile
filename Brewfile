@@ -41,6 +41,7 @@ cask "postgres"
 cask "postico"
 cask "protonvpn"
 cask "rstudio"
+cask "vlc"
 cask "vscodium"
 cask "zotero"
 mas "1password", id: 1333542190
