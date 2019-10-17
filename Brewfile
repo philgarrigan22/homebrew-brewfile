@@ -32,6 +32,7 @@ brew "zsh-syntax-highlighting"
 cask "alfred"
 cask "backblaze"
 cask "brave-browser"
+cask "camunda-modeler"
 cask "docker"
 cask "firefox-developer-edition"
 cask "insomnia"
@@ -42,7 +43,7 @@ cask "postgres"
 cask "postico"
 cask "protonvpn"
 cask "rstudio"
-cask "webtorrent"
+# cask "webtorrent"
 cask "vlc"
 cask "vscodium"
 cask "zotero"
@@ -51,3 +52,4 @@ mas "bear", id: 1091189122
 mas "keynote", id: 409183694
 mas "numbers", id: 409203825
 mas "pages", id: 409201541
+mas "Microsoft Remote Desktop 10", id: 1295203466
